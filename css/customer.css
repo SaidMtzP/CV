@@ -1,0 +1,21 @@
+.bl-color{
+    color:black;
+}
+
+a{
+    color: #dc3545;
+}
+
+.subheading-min {
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 500;
+    font-size: 1.5rem;
+  }
+
+  h2{
+      color: black;
+  }
+
+  div{
+      color: #343a40;
+  }
